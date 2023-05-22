@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileUI", "TextFileUI\TextFileUI.csproj", "{2D89C3BB-ECAA-423F-88B4-BE95B16A8F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{D550D3CD-9F21-4EEF-BB08-6BC38F57B833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D89C3BB-ECAA-423F-88B4-BE95B16A8F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D89C3BB-ECAA-423F-88B4-BE95B16A8F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D89C3BB-ECAA-423F-88B4-BE95B16A8F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D89C3BB-ECAA-423F-88B4-BE95B16A8F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D550D3CD-9F21-4EEF-BB08-6BC38F57B833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D550D3CD-9F21-4EEF-BB08-6BC38F57B833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D550D3CD-9F21-4EEF-BB08-6BC38F57B833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D550D3CD-9F21-4EEF-BB08-6BC38F57B833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A95E499-453C-416F-9598-D09E2E7212D7}
+	EndGlobalSection
+EndGlobal
